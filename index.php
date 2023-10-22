@@ -9,7 +9,7 @@
 <body>
 
     <header>
-        <h1>My Shop</h1>
+        <h1>My New Shop</h1>
     </header>
     <nav>
     	<ul>
