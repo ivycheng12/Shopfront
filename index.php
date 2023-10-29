@@ -9,7 +9,7 @@
 <body>
 
     <header>
-        <h1>My New Shop</h1>
+        <h1>My New Shop git added</h1>
     </header>
     <nav>
     	<ul>
