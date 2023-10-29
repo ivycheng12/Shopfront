@@ -10,6 +10,7 @@
 
     <header>
         <h1>My New Shop</h1>
+	<h1>line added by git repository</h1>
     </header>
     <nav>
     	<ul>
